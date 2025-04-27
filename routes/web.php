@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\HomeController;
 use App\Http\Controllers\ListBarangController;
+use App\Http\Controllers\blackmeow;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/welcome', function () {
